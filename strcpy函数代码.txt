@@ -21,3 +21,6 @@ char* StrCpy(char* src,char* dest)
 printf("%s", dest);
 free(dest);
 
+/**
+
+**/
